@@ -1,0 +1,11 @@
+{
+  "POST": {
+    "id": 1,
+    "rm": "Leanne Graham",
+    "ai_bu": "Old Mutual",
+    "party_type": "Individual",
+    "cust_name": "Richard Willmore",
+    "idno": "6508295080085",
+    "total_risk_score": 5
+  }
+}
